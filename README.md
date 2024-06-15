@@ -4,7 +4,7 @@ I've been working for **9 years** as a software developer. I started in the File
 
 You're looking at my personal account, which is not very active 😊
 
-Skills: Ruby & Rails / Elixir & Phoenix / MySQL / Helm / 
+Skills: Ruby & Rails / Elixir & Phoenix / MySQL / Helm / k8s
 
 - 🔭 I’m currently working on enabling Meister's monolithic apps to communicate better together 
 - 🌱 I’m learning software architecture and design patterns 
