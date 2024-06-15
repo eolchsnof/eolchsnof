@@ -1,10 +1,10 @@
 ![](https://github.com/eolchsnof/eolchsnof/assets/14125186/e2cec168-d606-4b7c-a6fb-7b74720017e4)
 
-I've been working for **9 years** as a software developer. I started in the FileMaker ecosystem and moved to proper programming in **2020 with Ruby on Rails**, and now **Elixir**.
+I've been working for **9 years** as a software developer. I started in the FileMaker ecosystem and moved to proper programming in **2020 with Ruby on Rails**, and more recently **Elixir**.
 
 You're looking at my personal account, which is not very active 😊
 
-Skills: Ruby & Rails / Elixir & Phoenix / MySQL / Helm / k8s
+Languages and technologies: Ruby & Rails / Elixir & Phoenix / Helm / k8s / MySQL
 
 - 🔭 I’m currently working on enabling Meister's monolithic apps to communicate better together 
 - 🌱 I’m learning software architecture and design patterns 
