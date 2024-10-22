@@ -14,7 +14,7 @@ Languages and technologies: Ruby & Rails / Elixir & Phoenix / Helm / k8s / MySQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chloe-meister)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chloefons/)  
 
-Professional public stats:
+[Professional](https://github.com/chloe-meister) public stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe-meister&show_icons=true&count_private=true)  
 
