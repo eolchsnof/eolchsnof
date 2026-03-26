@@ -1,5 +1,3 @@
-![](https://github.com/eolchsnof/eolchsnof/assets/14125186/e2cec168-d606-4b7c-a6fb-7b74720017e4)
-
 I've been working for more than 10 years as a software developer. I started in the FileMaker ecosystem and moved to proper programming in **2020 with Ruby on Rails**, with a short stint into **Elixir**.
 
 You're looking at my personal GitHub account, which is not active 😊
