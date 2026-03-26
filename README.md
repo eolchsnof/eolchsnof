@@ -1,12 +1,12 @@
 ![](https://github.com/eolchsnof/eolchsnof/assets/14125186/e2cec168-d606-4b7c-a6fb-7b74720017e4)
 
-I've been working for **9 years** as a software developer. I started in the FileMaker ecosystem and moved to proper programming in **2020 with Ruby on Rails**, and more recently **Elixir**.
+I've been working for more than 10 years as a software developer. I started in the FileMaker ecosystem and moved to proper programming in **2020 with Ruby on Rails**, with a short stint into **Elixir**.
 
-You're looking at my personal account, which is not very active 😊
+You're looking at my personal GitHub account, which is not active 😊
 
 Languages and technologies: Ruby & Rails / Elixir & Phoenix / Helm / k8s / MySQL
 
-- 🔭 I’m currently working on enabling Meister's monolithic apps to communicate better together 
+- 🔭 I’m currently working at [GitLab](https://gitlab.com/c_fons), in infrastructure platforms (Geo)
 - 🌱 I’m learning software architecture and design patterns 
 - 💬 Ask me about diversity & inclusion, craft beers, black metal 
 - 😄 Pronouns: she/her 
